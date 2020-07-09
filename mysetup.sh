@@ -18,7 +18,7 @@ BLUE='\033[1;34m'
 NC='\033[0m' # No Color
 
 # script configuration
-BASE_URL='#'~/clouddrive/live-video-analytics-master/live-video-analytics-iot-edge-csharp-master/src/edge/setup' # location of remote files used by the script
+BASE_URL='https://raw.githubusercontent.com/julialieberman/demoSite/master' # location of remote files used by the script
 DEFAULT_REGION='westus2'
 ENV_FILE='edge-deployment/.env'
 APP_SETTINGS_FILE='appsettings.json'
